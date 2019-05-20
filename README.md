@@ -28,13 +28,3 @@ TouchdesignerのArtnet設定。
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/149571/e449d8d0-34ee-2b8f-29d5-9dac99fa8770.png)  
 255.255.255でマルチキャストになる。  
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/149571/71b40db1-a916-f838-b404-4fa35aafb2ba.png)  
-
-
-
-C4-ExtendでのArtNet確認  
-Homeから[Settings]/[In/out configuration]の右上ツールセットにInputWatcherがある。Universeを合わせてWATCHINPUTすると今着ているデータを見れる。すごい  
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/149571/dd0cbeac-0fc1-d407-07bc-0564aa320cdf.png)  
-
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/149571/142c4ee1-c42f-346c-c588-6d6e78c6885e.png)  
-カラー情報まで見れる。有難い。  
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/149571/4d2ffc85-7896-6c98-6342-0f31a52a5f9e.png)  
